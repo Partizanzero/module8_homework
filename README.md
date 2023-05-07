@@ -1,2 +1,2 @@
 # module8_homework
-module7_homework
+Модуль 8. DOM
